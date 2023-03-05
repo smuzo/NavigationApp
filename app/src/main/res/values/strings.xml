@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NavigationApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="send_cash_to">Cash send to %s</string>
+    <string name="confirm_send_cash_to">Do you want to send %d to %s</string>
+    <string name="information">information</string>
+    <string name="setting">Setting</string>
+</resources>
